@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
+  m_Name: Blue Eyes White Dragon
+  m_EditorClassIdentifier: 
+  _name: Blue-Eyes White Dragon
+  _description: This legendary dragon is a powerful engine of destruction. Virtually
+    invincible, very few have faced this awesome creature and lived to tell the tale.
+  _speed: 0
+  id: 89631139
+  _sprite: {fileID: 0}
+  _monsterType: 3
+  _monsterAttribute: 1
+  _secondaryAttribute: 2
+  _thirdAttribute: 2
+  _atk: 3000
+  _def: 2500
