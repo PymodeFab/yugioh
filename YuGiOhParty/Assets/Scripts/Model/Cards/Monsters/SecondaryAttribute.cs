@@ -1,4 +1,4 @@
 ﻿public enum SecondaryAttribute
 {
-    TUNER,FLIP,GEMINI,NONE
+    NONE,TUNER,FLIP,GEMINI
 }
