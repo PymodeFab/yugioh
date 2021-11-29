@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7792c0e963c1044b8c8640dd81bc06e, type: 3}
   m_Name: Fissure
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Fissure
+  _description: Destroy the 1 face-up monster your opponent controls that has the
+    lowest ATK (your choice, if tied).
+  id: 66788016
+  _sprite: {fileID: 21300000, guid: 165aec5e88225ff458d73564bbb90a8a, type: 3}
   _effect: {fileID: 0}
   _spellType: 0

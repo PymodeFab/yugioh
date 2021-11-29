@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bf926a20c9d94d49a5a2b5940674530, type: 3}
   m_Name: Two-Pronged Attack
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: ' Two-Pronged Attack'
+  _description: Select and destroy 2 of your monsters and 1 of your opponent's monsters.
+  id: 83887306
+  _sprite: {fileID: 21300000, guid: 80c5d176adcdb88489fa60719ebaf1be, type: 3}
   _effect: {fileID: 0}
   _trapType: 0

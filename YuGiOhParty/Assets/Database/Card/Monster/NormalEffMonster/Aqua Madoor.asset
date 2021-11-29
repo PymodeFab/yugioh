@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
   m_Name: Aqua Madoor
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Aqua Madoor
+  _description: A wizard of the waters that conjures a liquid wall to crush any enemies
+    that oppose him.
+  id: 85639257
+  _sprite: {fileID: 21300000, guid: d78310f1cecc32540be7b3eff9767b1c, type: 3}
   _effect: {fileID: 0}
   _monsterType: 0
-  _monsterAttribute: 0
+  _monsterAttribute: 3
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 1200
+  _def: 2000
+  _lvl: 4

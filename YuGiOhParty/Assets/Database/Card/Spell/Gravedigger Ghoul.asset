@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7792c0e963c1044b8c8640dd81bc06e, type: 3}
   m_Name: Gravedigger Ghoul
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Gravedigger Ghoul
+  _description: Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove
+    the selected card(s) from play.
+  id: 82542267
+  _sprite: {fileID: 21300000, guid: aa7259637908bee41b66f043043bbe11, type: 3}
   _effect: {fileID: 0}
   _spellType: 0

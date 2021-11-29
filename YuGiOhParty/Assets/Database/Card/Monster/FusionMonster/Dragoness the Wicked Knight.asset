@@ -12,15 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47bbd12eb3fac7241b926447396f98c3, type: 3}
   m_Name: Dragoness the Wicked Knight
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Dragoness the Wicked Knight
+  _description: '"Armaill" + "One-Eyed Shield Dragon"'
+  id: 70681994
+  _sprite: {fileID: 21300000, guid: a8b8b41c9bc66c7459bf469a0b9505fd, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
-  _monsterAttribute: 0
+  _monsterType: 5
+  _monsterAttribute: 5
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 1200
+  _def: 900
+  _lvl: 3

@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
   m_Name: Mystical Elf
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Mystical Elf
+  _description: A delicate elf that lacks offense, but has a terrific defense backed
+    by mystical power.
+  id: 15025844
+  _sprite: {fileID: 21300000, guid: 2ff4b10b70c67d04aab5b98fbdef46fe, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
-  _monsterAttribute: 0
+  _monsterType: 8
+  _monsterAttribute: 1
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 800
+  _def: 2000
+  _lvl: 4

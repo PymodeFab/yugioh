@@ -12,15 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
   m_Name: Giant Soldier of Stone
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Giant Soldier of Stone
+  _description: A giant warrior made of stone. A punch from this creature has earth-shaking
+    results.
+  id: 13039848
+  _sprite: {fileID: 21300000, guid: 39c83eb813f1fd849960ff031e153eae, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
-  _monsterAttribute: 0
+  _monsterType: 17
+  _monsterAttribute: 2
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 1300
+  _def: 2000
+  _lvl: 4

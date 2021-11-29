@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bf926a20c9d94d49a5a2b5940674530, type: 3}
   m_Name: Trap Hole
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: ' Trap Hole'
+  _description: 'When your opponent Normal or Flip Summons 1 monster with 1000 or
+    more ATK: Target that monster; destroy that target.'
+  id: 4206964
+  _sprite: {fileID: 21300000, guid: e3a7d4a518ff4aa41b38191b6f05021b, type: 3}
   _effect: {fileID: 0}
   _trapType: 0

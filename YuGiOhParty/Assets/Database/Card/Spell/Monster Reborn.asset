@@ -15,8 +15,7 @@ MonoBehaviour:
   _name: Monster Reborn
   _description: Target 1 monster from either your opponent's or your own Graveyard
     ; Special Summon it.
-  _speed: 1
   id: 83764718
-  _sprite: {fileID: 0}
+  _sprite: {fileID: 21300000, guid: e77e74e7cf1f4ad47b5724961943f229, type: 3}
   _effect: {fileID: 0}
   _spellType: 0

@@ -15,14 +15,13 @@ MonoBehaviour:
   _name: Blue-Eyes White Dragon
   _description: This legendary dragon is a powerful engine of destruction. Virtually
     invincible, very few have faced this awesome creature and lived to tell the tale.
-  _speed: 1
   id: 89631139
-  _sprite: {fileID: 0}
+  _sprite: {fileID: 21300000, guid: 42cbfb51b9633224089673a5755307e8, type: 3}
   _effect: {fileID: 0}
   _monsterType: 3
   _monsterAttribute: 1
-  _secondaryAttribute: 3
-  _thirdAttribute: 3
+  _secondaryAttribute: 0
+  _thirdAttribute: 0
   _atk: 3000
   _def: 2500
   _lvl: 8

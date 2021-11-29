@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5bf926a20c9d94d49a5a2b5940674530, type: 3}
   m_Name: Dragon Capture Jar
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Dragon Capture Jar
+  _description: Change all face-up Dragon-Type monsters on the field to Defense Position,
+    also they cannot change their battle positions.
+  id: 50045299
+  _sprite: {fileID: 21300000, guid: 1c1f2f87385391247b08b66189839757, type: 3}
   _effect: {fileID: 0}
-  _trapType: 0
+  _trapType: 1

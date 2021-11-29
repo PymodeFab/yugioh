@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
   m_Name: Left Arm of the Forbidden One
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Left Arm of the Forbidden One
+  _description: A forbidden left arm sealed by magic. Whosoever breaks this seal
+    will know infinite power.
+  id: 7902349
+  _sprite: {fileID: 21300000, guid: f2d05553db9e3fb4fbde35209e677fde, type: 3}
   _effect: {fileID: 0}
   _monsterType: 0
   _monsterAttribute: 0
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 200
+  _def: 300
+  _lvl: 1

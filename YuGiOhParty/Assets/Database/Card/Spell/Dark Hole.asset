@@ -12,10 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7792c0e963c1044b8c8640dd81bc06e, type: 3}
   m_Name: Dark Hole
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Dark Hole
+  _description: Destroy all monsters on the field.
+  id: 53129443
+  _sprite: {fileID: 21300000, guid: c5d04ad67c9ad0a48ae687010c39da03, type: 3}
   _effect: {fileID: 0}
   _spellType: 0

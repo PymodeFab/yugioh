@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47bbd12eb3fac7241b926447396f98c3, type: 3}
   m_Name: Charubin the Fire Knight
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Charubin the Fire Knight
+  _description: '"Monster Egg" + "Hinotama Soul"'
+  id: 37421579
+  _sprite: {fileID: 21300000, guid: 2eeca4972c8bf1d42997ebb5f011de30, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
-  _monsterAttribute: 0
+  _monsterType: 7
+  _monsterAttribute: 4
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 1100
+  _def: 800
+  _lvl: 3

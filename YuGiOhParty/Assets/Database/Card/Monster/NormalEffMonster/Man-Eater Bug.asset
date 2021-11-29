@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260c2a336b2b0ac4c951f34e56ac77e0, type: 3}
   m_Name: Man-Eater Bug
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Man-Eater Bug
+  _description: 'FLIP: Target 1 monster on the field; destroy it.'
+  id: 54652250
+  _sprite: {fileID: 21300000, guid: e95ec99dd97aacf48b36eeca35ce935c, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
-  _monsterAttribute: 0
-  _secondaryAttribute: 0
+  _monsterType: 9
+  _monsterAttribute: 2
+  _secondaryAttribute: 2
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 450
+  _def: 600
+  _lvl: 2

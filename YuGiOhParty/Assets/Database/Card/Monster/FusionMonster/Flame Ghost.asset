@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47bbd12eb3fac7241b926447396f98c3, type: 3}
   m_Name: Flame Ghost
   m_EditorClassIdentifier: 
-  _name: 
-  _description: 
-  _speed: 0
-  id: 0
-  _sprite: {fileID: 0}
+  _name: Flame Ghost
+  _description: '"Skull Servant" + "Dissolverock"'
+  id: 58528964
+  _sprite: {fileID: 21300000, guid: 6a506bc80f9da5c45aa1d3c5ae5704c7, type: 3}
   _effect: {fileID: 0}
-  _monsterType: 0
+  _monsterType: 4
   _monsterAttribute: 0
   _secondaryAttribute: 0
   _thirdAttribute: 0
-  _atk: 0
-  _def: 0
-  _lvl: 0
+  _atk: 1000
+  _def: 800
+  _lvl: 3
