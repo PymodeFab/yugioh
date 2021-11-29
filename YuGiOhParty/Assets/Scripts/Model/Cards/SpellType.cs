@@ -1,0 +1,4 @@
+﻿public enum SpellType
+{
+    NORMAL,CONTINUOUS,EQUIP,QUICK_PLAY,FIELD,RITUAL
+}

@@ -2,17 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spell : MonoBehaviour
+[CreateAssetMenu(menuName ="Card/Spell",fileName ="New Spell")]
+public class Spell : Card
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    [Header("Spell details")]
+    [SerializeField] private SpellType _spellType;
+    public SpellType SpellType { get => _spellType; set => _spellType = value; }
 }

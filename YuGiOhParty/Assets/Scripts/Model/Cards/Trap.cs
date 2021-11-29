@@ -2,17 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Trap : MonoBehaviour
+[CreateAssetMenu(menuName ="Card/Trap",fileName ="New Trap")]
+public class Trap : Card
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [Header("Trap details")]
+    [SerializeField] private TrapType _trapType;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public TrapType TrapType { get => _trapType;  }
 }

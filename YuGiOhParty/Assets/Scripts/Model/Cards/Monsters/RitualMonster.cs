@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName ="Card/Monster/Normal or Effect Monster",fileName ="New Normal Monster")]
-public class NormalMonster : Monster,ILevel
+[CreateAssetMenu(menuName ="Card/Monster/Ritual Monster")]
+public class RitualMonster : Monster,ILevel
 {
 
     [Header("Monster LVL")]

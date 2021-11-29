@@ -1,3 +1,5 @@
-﻿public class CardEffect
+﻿using UnityEngine;
+
+public class CardEffect : ScriptableObject
 {
 }
